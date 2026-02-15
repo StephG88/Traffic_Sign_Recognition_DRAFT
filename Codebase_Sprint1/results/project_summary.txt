@@ -1,0 +1,25 @@
+============================================================
+TRAFFIC SIGN RECOGNITION PROJECT - SPRINT 1 SUMMARY
+============================================================
+
+DATASET INFORMATION
+------------------------------------------------------------
+Total images: 117627
+Image shape: (117627, 32, 32, 3)
+Number of classes: 43
+Labels shape: (117627,)
+
+Samples per class:
+  Min: 630
+  Max: 6750
+  Mean: 2735.51
+  Std: 2063.15
+
+MODEL INFORMATION
+------------------------------------------------------------
+Total parameters: 1,478,475
+Model architecture: CNN with 18 layers
+
+============================================================
+End of Summary
+============================================================

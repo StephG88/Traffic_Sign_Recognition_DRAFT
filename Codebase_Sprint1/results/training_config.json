@@ -1,0 +1,16 @@
+{
+    "image_size": [
+        32,
+        32,
+        3
+    ],
+    "num_classes": 43,
+    "augmentation_used": true,
+    "epochs": 2,
+    "batch_size": 32,
+    "train_samples": 75280,
+    "val_samples": 18821,
+    "test_samples": 23526,
+    "test_accuracy": 0.9600867033004761,
+    "test_loss": 0.12831652164459229
+}
