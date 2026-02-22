@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import (confusion_matrix, classification_report,
-                              accuracy_score, top_k_accuracy_score)
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, top_k_accuracy_score
 import seaborn as sns
 
 
